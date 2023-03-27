@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://howtoreadacrochetpattern_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">How to Read Crochet Patterns</name>
+      <description lang="en-US">By the end of this standalone module, you will be able to read any pattern with confidence and be able to crochet the items you wish to. </description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://howtoreadacrochetpattern_rise/lbfb69fvztex5WY2bgvLRL-XJoKI9eH2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Gallery of Stitches/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://howtoreadacrochetpattern_rise/6oGY2mABQ33wsyMlCiwuMlN4Y3PU7f74" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Formative Assessment: Identify the Stitch/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+                                  
+<activity id="http://howtoreadacrochetpattern_rise/6oGY2mABQ33wsyMlCiwuMlN4Y3PU7f74/clf198ro4000a356oays4z9n7" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Identify the stitch in this photo</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf198ro6000b356o66yqfd83</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf198ro6000b356o66yqfd83</id>
+    <description lang="en-US">Chain</description>
+  </component>
+    <component>
+    <id>choice_clf198ro6000c356oelex51n6</id>
+    <description lang="en-US">Single Crochet</description>
+  </component>
+    <component>
+    <id>choice_clf19dh190023356olwesx662</id>
+    <description lang="en-US">Magic Ring</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/6oGY2mABQ33wsyMlCiwuMlN4Y3PU7f74/clf199znk000r356oag170qsd" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Identify the stitch in this photo</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf19g83w002d356o20ds99av</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf199znk000s356omz1dosw0</id>
+    <description lang="en-US">Single Crochet</description>
+  </component>
+    <component>
+    <id>choice_clf199znk000t356opgpg00q0</id>
+    <description lang="en-US">Double Crochet</description>
+  </component>
+    <component>
+    <id>choice_clf19g83w002d356o20ds99av</id>
+    <description lang="en-US">Treble Crochet</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/6oGY2mABQ33wsyMlCiwuMlN4Y3PU7f74/clf19fgze002a356osruw8533" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Identify the stitch in this photo</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf19jyph002e356ok8edz4dc</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf19fgzg002b356o2a8he8no</id>
+    <description lang="en-US">Slip Stitch</description>
+  </component>
+    <component>
+    <id>choice_clf19fgzg002c356o4f7mhv3u</id>
+    <description lang="en-US">Increase</description>
+  </component>
+    <component>
+    <id>choice_clf19jyph002e356ok8edz4dc</id>
+    <description lang="en-US">Two Together</description>
+  </component>
+    </choices>
+  </activity>
+                      <activity id="http://howtoreadacrochetpattern_rise/OzA2u6f6JCYMghf5ju_0KP5Ji2kIuRq3" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Common Stitch Abbreviations/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://howtoreadacrochetpattern_rise/CkFFHhXbBFNAzDzOoU6SzKQ-Mdr0gFsh" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Formative Assessment: Matching Game/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+                                  
+<activity id="http://howtoreadacrochetpattern_rise/CkFFHhXbBFNAzDzOoU6SzKQ-Mdr0gFsh/clf21g8cl020u356o3csewv26" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Drag stitch names to their matching abbreviations.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clf21g8cl020v356ofm8vm3mc[.]target_clf21g8cl020v356ofm8vm3mc</correctResponsePattern>
+    <correctResponsePattern>source_clf21g8cl020w356ol0cei43b[.]target_clf21g8cl020w356ol0cei43b</correctResponsePattern>
+    <correctResponsePattern>source_clf21g8cl020x356oi2645b21[.]target_clf21g8cl020x356oi2645b21</correctResponsePattern>
+    <correctResponsePattern>source_clf21kmu80217356o90s6tzlz[.]target_clf21kmu80217356o90s6tzlz</correctResponsePattern>
+    <correctResponsePattern>source_clf21l0k60218356oig2inypl[.]target_clf21l0k60218356oig2inypl</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clf21g8cl020v356ofm8vm3mc</id>
+    <description lang="en-US">Single Crochet></description>
+  </component>
+    <component>
+    <id>source_clf21g8cl020w356ol0cei43b</id>
+    <description lang="en-US">Two Together></description>
+  </component>
+    <component>
+    <id>source_clf21g8cl020x356oi2645b21</id>
+    <description lang="en-US">Increase></description>
+  </component>
+    <component>
+    <id>source_clf21kmu80217356o90s6tzlz</id>
+    <description lang="en-US">Double Crochet></description>
+  </component>
+    <component>
+    <id>source_clf21l0k60218356oig2inypl</id>
+    <description lang="en-US">Half Double Crochet></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clf21g8cl020v356ofm8vm3mc</id>
+        <description lang="en-US">sc</description>
+      </component>
+          <component>
+        <id>target_clf21g8cl020w356ol0cei43b</id>
+        <description lang="en-US">2tog</description>
+      </component>
+          <component>
+        <id>target_clf21g8cl020x356oi2645b21</id>
+        <description lang="en-US">inc</description>
+      </component>
+          <component>
+        <id>target_clf21kmu80217356o90s6tzlz</id>
+        <description lang="en-US">dc</description>
+      </component>
+          <component>
+        <id>target_clf21l0k60218356oig2inypl</id>
+        <description lang="en-US">hdc</description>
+      </component>
+      </target>
+  </activity>
+                      <activity id="http://howtoreadacrochetpattern_rise/flCc5AmHA_OyGsS9lyQTJsVtofqZM2I-" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Put It All Together/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://howtoreadacrochetpattern_rise/UBu1CZi_25wuQxIqZlzVK6L5Ql7jVQNS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Formative Assessment: The Important Bits/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+                                  
+<activity id="http://howtoreadacrochetpattern_rise/UBu1CZi_25wuQxIqZlzVK6L5Ql7jVQNS/clf32dfdo000o356pbn1q0w37" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">If your pattern is in the round, how do you begin?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf32dfdq000p356pay5n7fuz</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf32dfdq000p356pay5n7fuz</id>
+    <description lang="en-US">Magic Ring (mr)</description>
+  </component>
+    <component>
+    <id>choice_clf32dfdq000q356p4pex7n1f</id>
+    <description lang="en-US">Chain Row (ch)</description>
+  </component>
+    <component>
+    <id>choice_clf32ew1c000x356p79ncxl93</id>
+    <description lang="en-US">Single Crochet (sc)</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/UBu1CZi_25wuQxIqZlzVK6L5Ql7jVQNS/clf32lkc9001d356pzkxpuytj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Why is it important to use recommended yarn thickness and hook size? (Choose three)</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf32lkcb001e356pw0cpf5tp</correctResponsePattern>
+    <correctResponsePattern>choice_clf32lkcb001f356p51c17occ</correctResponsePattern>
+    <correctResponsePattern>choice_clf32lkcb001h356p9clmzwnb</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf32lkcb001e356pw0cpf5tp</id>
+    <description lang="en-US">To achieve gauge</description>
+  </component>
+    <component>
+    <id>choice_clf32lkcb001g356ptm2r1636</id>
+    <description lang="en-US">Because it&amp;#39;s the rules</description>
+  </component>
+    <component>
+    <id>choice_clf32lkcb001h356p9clmzwnb</id>
+    <description lang="en-US">The end piece could be too big or too small</description>
+  </component>
+    <component>
+    <id>choice_clf32lkcb001f356p51c17occ</id>
+    <description lang="en-US">Yarn might not be correct type for use</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/UBu1CZi_25wuQxIqZlzVK6L5Ql7jVQNS/clf32tqpl00lx356p9yqxktfh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the correct order to start a chain row?</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clf32tqpn00ly356ppmrx19am[.]target_clf32tqpn00ly356ppmrx19am</correctResponsePattern>
+    <correctResponsePattern>source_clf32tqpn00lz356ph2oi0oax[.]target_clf32tqpn00lz356ph2oi0oax</correctResponsePattern>
+    <correctResponsePattern>source_clf32tqpn00m0356pwcvvyyt6[.]target_clf32tqpn00m0356pwcvvyyt6</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clf32tqpn00ly356ppmrx19am</id>
+    <description lang="en-US">1></description>
+  </component>
+    <component>
+    <id>source_clf32tqpn00lz356ph2oi0oax</id>
+    <description lang="en-US">2></description>
+  </component>
+    <component>
+    <id>source_clf32tqpn00m0356pwcvvyyt6</id>
+    <description lang="en-US">3></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clf32tqpn00ly356ppmrx19am</id>
+        <description lang="en-US">Slipknot</description>
+      </component>
+          <component>
+        <id>target_clf32tqpn00lz356ph2oi0oax</id>
+        <description lang="en-US">Chain</description>
+      </component>
+          <component>
+        <id>target_clf32tqpn00m0356pwcvvyyt6</id>
+        <description lang="en-US">+ chain to account for stitch type&#39;s height used in next row</description>
+      </component>
+      </target>
+  </activity>
+                      <activity id="http://howtoreadacrochetpattern_rise/PUiGEwWorWJlK-IjIsxPk_3zuqv446zE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Summative Assessment: Can You Read a Pattern?/quiz</name>
+      <description lang="en-US"></description>
+    </activity>
+                                  
+<activity id="http://howtoreadacrochetpattern_rise/PUiGEwWorWJlK-IjIsxPk_3zuqv446zE/clf89rjkg000g356pmd14duhi" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Put the following instructions in the correct order:&lt;br&gt;dc inc, dc in next 2 - repeat</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clf89rjkg000h356pjfhfjmv4[.]target_clf89rjkg000h356pjfhfjmv4</correctResponsePattern>
+    <correctResponsePattern>source_clf89rjkg000i356pfev4wfkc[.]target_clf89rjkg000i356pfev4wfkc</correctResponsePattern>
+    <correctResponsePattern>source_clf89rjkg000j356pxti6s8pq[.]target_clf89rjkg000j356pxti6s8pq</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clf89rjkg000h356pjfhfjmv4</id>
+    <description lang="en-US">1st step></description>
+  </component>
+    <component>
+    <id>source_clf89rjkg000i356pfev4wfkc</id>
+    <description lang="en-US">2nd step></description>
+  </component>
+    <component>
+    <id>source_clf89rjkg000j356pxti6s8pq</id>
+    <description lang="en-US">3rd step></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clf89rjkg000h356pjfhfjmv4</id>
+        <description lang="en-US">Double Crochet into the same stitch twice</description>
+      </component>
+          <component>
+        <id>target_clf89rjkg000i356pfev4wfkc</id>
+        <description lang="en-US">Double Crochet x2</description>
+      </component>
+          <component>
+        <id>target_clf89rjkg000j356pxti6s8pq</id>
+        <description lang="en-US">Repeat</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/PUiGEwWorWJlK-IjIsxPk_3zuqv446zE/clf8ad2zr001m356p1jwwk59d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">If your pattern starts with a chain row, how will it be written?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf8ad2zt001n356p5nx0lw3y</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf8ad2zt001n356p5nx0lw3y</id>
+    <description lang="en-US">ch 22 + 2</description>
+  </component>
+    <component>
+    <id>choice_clf8ad2zt001o356pibb9uqqa</id>
+    <description lang="en-US">sc 22+ 2</description>
+  </component>
+    <component>
+    <id>choice_clf8aerhp001p356p0ingk9bp</id>
+    <description lang="en-US">mr 22 + 2</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/PUiGEwWorWJlK-IjIsxPk_3zuqv446zE/clf8a623x0017356p1e9t1ll8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Identify the stitch in this photo</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf8a623y0018356pvgsd1nxp</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf8a623y0018356pvgsd1nxp</id>
+    <description lang="en-US">sl st</description>
+  </component>
+    <component>
+    <id>choice_clf8a623y0019356p6stebnwc</id>
+    <description lang="en-US">sc</description>
+  </component>
+    <component>
+    <id>choice_clf8a7v02001c356plxglxnmw</id>
+    <description lang="en-US">ch</description>
+  </component>
+    <component>
+    <id>choice_clf8a7yno001d356p466ll0ws</id>
+    <description lang="en-US">dc</description>
+  </component>
+    <component>
+    <id>choice_clf8a85x6001e356ptlwct7nf</id>
+    <description lang="en-US">hdc</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/PUiGEwWorWJlK-IjIsxPk_3zuqv446zE/clf8a93dz001f356pjmsszfxk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Drag stitch names to their matching abbreviations</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clf8a93e2001g356p4szzijh7[.]target_clf8a93e2001g356p4szzijh7</correctResponsePattern>
+    <correctResponsePattern>source_clf8a93e2001h356pohmc5v0i[.]target_clf8a93e2001h356pohmc5v0i</correctResponsePattern>
+    <correctResponsePattern>source_clf8a93e2001i356pwj8n2hxg[.]target_clf8a93e2001i356pwj8n2hxg</correctResponsePattern>
+    <correctResponsePattern>source_clf8ab0r9001j356pqt4vdxqt[.]target_clf8ab0r9001j356pqt4vdxqt</correctResponsePattern>
+    <correctResponsePattern>source_clf8abqx4001k356ppjosj2ms[.]target_clf8abqx4001k356ppjosj2ms</correctResponsePattern>
+    <correctResponsePattern>source_clf8ac4v5001l356pffbn1u5w[.]target_clf8ac4v5001l356pffbn1u5w</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clf8a93e2001g356p4szzijh7</id>
+    <description lang="en-US">Treble Crochet></description>
+  </component>
+    <component>
+    <id>source_clf8a93e2001h356pohmc5v0i</id>
+    <description lang="en-US">Slip Stitch></description>
+  </component>
+    <component>
+    <id>source_clf8a93e2001i356pwj8n2hxg</id>
+    <description lang="en-US">Increase></description>
+  </component>
+    <component>
+    <id>source_clf8ab0r9001j356pqt4vdxqt</id>
+    <description lang="en-US">Chain></description>
+  </component>
+    <component>
+    <id>source_clf8abqx4001k356ppjosj2ms</id>
+    <description lang="en-US">Magic Ring></description>
+  </component>
+    <component>
+    <id>source_clf8ac4v5001l356pffbn1u5w</id>
+    <description lang="en-US">Double Crochet></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clf8a93e2001g356p4szzijh7</id>
+        <description lang="en-US">tr</description>
+      </component>
+          <component>
+        <id>target_clf8a93e2001h356pohmc5v0i</id>
+        <description lang="en-US">sl st</description>
+      </component>
+          <component>
+        <id>target_clf8a93e2001i356pwj8n2hxg</id>
+        <description lang="en-US">inc</description>
+      </component>
+          <component>
+        <id>target_clf8ab0r9001j356pqt4vdxqt</id>
+        <description lang="en-US">ch</description>
+      </component>
+          <component>
+        <id>target_clf8abqx4001k356ppjosj2ms</id>
+        <description lang="en-US">mr</description>
+      </component>
+          <component>
+        <id>target_clf8ac4v5001l356pffbn1u5w</id>
+        <description lang="en-US">dc</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://howtoreadacrochetpattern_rise/PUiGEwWorWJlK-IjIsxPk_3zuqv446zE/clf89kwwk0003356p49tvw1vp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Identify the correct answer to the following stitches:&lt;br&gt;Chain 3, 2 Double Crochet into Chain 1 below. Chain 1, 3 Double Crochet into Chain 1 below.</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_clf89kwwm0004356px98zmh53</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_clf89kwwm0004356px98zmh53</id>
+    <description lang="en-US">ch 3, 2 dc into ch 1 below. ch 1, 3 dc into ch 1 below.</description>
+  </component>
+    <component>
+    <id>choice_clf89kwwm0005356p2roneayh</id>
+    <description lang="en-US">ch 3, 2 hdc into ch 1 below. ch 1, 3 hdc into ch 1 below.</description>
+  </component>
+    <component>
+    <id>choice_clf89yubz000p356prf23r2ts</id>
+    <description lang="en-US">ch 3, 2 tr into ch 1 below. ch 1, 3 tr into ch 1 below.</description>
+  </component>
+    </choices>
+  </activity>
+                      <activity id="http://howtoreadacrochetpattern_rise/S1yD8pQkHIvkbWORe0CrwXZWHXl7cGlG" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">In Closing/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
